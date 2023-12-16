@@ -13,6 +13,14 @@ public class Fibonacci {
             last = current;
 
             System.out.println(current + " ");
+            /*
+            1. Create Branch
+            2. Make Changes
+            3. Commit and Push
+            4. If want to merges changes to other branch(main), then create PR (Pull Request)
+            5. After approval, merge PR.
+            6. Update Project/Pull/Fetch in IntelliJ
+             */
 
 
         }

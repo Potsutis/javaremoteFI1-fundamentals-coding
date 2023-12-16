@@ -14,6 +14,6 @@ public class Fibonacci {
 
             System.out.println(current + " ");
 
-        }git branch -M main
+        }
     }
 }

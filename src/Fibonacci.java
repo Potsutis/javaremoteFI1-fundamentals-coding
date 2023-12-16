@@ -13,7 +13,7 @@ public class Fibonacci {
             last = current;
 
             System.out.println(current + " ");
-            //Fibonacci
+
 
         }
     }
